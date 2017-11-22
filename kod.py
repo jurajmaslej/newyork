@@ -70,9 +70,9 @@ class DataLoader:
 		test_pred = regr.predict(data['xtrain'])
 		
 		# The mean squared error
-		print("Mean squared error test: %.2f"
+		print("Mean squared error train data: %.2f"
 			% mean_squared_error(data['ytrain'], test_pred))
-		print("Mean absolute error test: %.2f"
+		print("Mean absolute error train data: %.2f"
 			% mean_absolute_error(data['ytrain'], test_pred))
 		
 		# Make predictions using the testing set
