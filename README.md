@@ -16,7 +16,6 @@ drop_non_creditcard() - drops rides not paid by credit card
 data_for_linear- linear regression with only one feature
 data_for_linear_multifeatures - using multiple features
 # meaning of the graph
-<br>
 graph with black dots as target value <br>
 red dots as value predicted
 # output:
