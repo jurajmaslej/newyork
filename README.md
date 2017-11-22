@@ -3,9 +3,9 @@
 
 # run by: python kod.py
 # output:
-mean and absolut square error for training (wrong label 'mean square error test' data
-mean and absolut square error for testing data
+mean and absolut square error for training data <br>
+mean and absolut square error for testing data <br>
 variance score
-
-graph with black dots as target value
+<br>
+graph with black dots as target value <br>
 red dots as value predicted
